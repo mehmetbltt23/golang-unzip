@@ -1,3 +1,4 @@
+## Scan and unzip zip files 
 
 #### It finds zip files in the directory and subfolders you give with the source path and extracts them to the directory you specify.
 
